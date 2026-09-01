@@ -1,0 +1,22 @@
+Copyright (c) 2022-2026 박광규 (GVerse-Dev)
+All rights reserved.
+
+이 저장소는 채용 검토 및 포트폴리오 열람 목적으로 공개된 소스 코드 발췌본입니다.
+
+허용: 열람, 평가 목적의 읽기.
+금지: 복제, 수정, 배포, 2차적 저작물 작성, 상업적 이용.
+
+본 코드는 Google Play에 출시된 상용 게임
+"CalcuBlock : Math Puzzle" (com.gversedev.calcublock) 의 일부입니다.
+
+---
+
+This repository contains excerpts of source code published for portfolio
+and hiring-review purposes only.
+
+Permitted: reading and evaluation.
+Not permitted: copying, modification, distribution, derivative works,
+or commercial use.
+
+This code is part of "CalcuBlock : Math Puzzle" (com.gversedev.calcublock),
+a commercial game released on Google Play.

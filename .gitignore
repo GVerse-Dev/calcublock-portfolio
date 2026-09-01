@@ -1,0 +1,55 @@
+# 이 저장소는 열람용 코드 발췌본이다. 빌드 산출물이 생길 일이 없지만,
+# 실수로 원본 프로젝트의 것이 섞여 들어오는 것을 막는다.
+
+# 빌드 산출물
+*.apk
+*.aab
+*.unitypackage
+[Bb]uild/
+[Bb]uilds/
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Ll]ogs/
+
+# IDE
+.vs/
+.idea/
+*.csproj
+*.sln
+*.user
+*.userprefs
+
+# 서명 키 및 자격증명 — 절대 커밋 금지
+*.keystore
+*.jks
+*.p12
+*.pfx
+*.pepk
+*.mobileprovision
+*.p8
+*.keystore.*
+*.jks.*
+*.p12.*
+keystore.properties
+local.properties
+gradle.properties
+*service-account*.json
+google-services.json
+GoogleService-Info.plist
+*.pem
+*.der
+*.key
+id_rsa*
+id_ed25519*
+.env
+.env.*
+!.env.example
+.npmrc
+.netrc
+
+# 네이티브 심볼
+*.symbols.zip
+
+# 에이전트 작업 디렉터리
+.claude/

@@ -1,0 +1,18 @@
+{
+    "name": "IGQA.AutoPlayBot",
+    "rootNamespace": "IGQA.AutoPlayBot",
+    "references": [
+        "CalculationTetris.Scripts"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [
+        "IG_GAMELOOP_BUILD || UNITY_INCLUDE_TESTS"
+    ],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
