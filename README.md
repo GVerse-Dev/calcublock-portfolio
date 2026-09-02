@@ -758,13 +758,3 @@ CI를 접는 쪽을 택했습니다.
 | [save-integrity.md](docs/save-integrity.md) | 세이브 무결성 검증 설계 |
 | [architecture.md](docs/architecture.md) | MVC + Manager 구성, UniRx 흐름 |
 | [known-limitations.md](docs/known-limitations.md) | 한계 8개와 개선 순서 |
-
----
-
-<div align="center">
-
-**박광규** · Unity Client Programmer
-
-[Portfolio](https://sincere-afternoon-a0f.notion.site/Client-Programmer-326ecdddc215803a8a89ffb87ac21f98) · [Blog](https://gverse-dev.tistory.com) · [GitHub](https://github.com/GVerse-Dev)
-
-</div>
